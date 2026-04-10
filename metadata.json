@@ -1,0 +1,7 @@
+{
+  "name": "EduLocate - Coaching Institute Finder",
+  "description": "Find top-rated medical, JEE, UPSC, and other coaching institutes near you using real-time Google Maps data and Gemini AI intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
